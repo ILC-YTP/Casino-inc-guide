@@ -90,7 +90,7 @@ All the required settings have been set, now click OK, then within DXWnd, double
 For borderless, the game should open in the resolution and position you chose. For Standard Windowed, the game will hug the top left corner at a smaller resolution, but dragging the window around should fix it and set the resolution correctly. Do note that the menu runs at 640x480 no matter what, and while it should scale up to the resolution set in DxWnd, the scaling isn't pretty. Before starting a new game however, head over to the options, and make sure the *Game Resolution* slider is set to the resolution you set the game to in DxWnd.
 
 Here is what the game looks like running at 1280x960 on a 1920x1080 desktop:
-[previewicon=39756569;sizeThumb,inline;desktop screenshot.jpg][/previewicon]
+![Casino Inc running with my desktop in the background](/Images/desktop%20screenshot.png)
 
 NOTE: There is a minor bug where Casino inc might initially appear in front of everything even after tabbing out. I find that Clicking out of the game, clicking back in, then alt tabbing to something else solves this issue. You might also wanna disable Inside and City Mouse Scrolling in the game settings if you find it interfears when playing the game.
 
@@ -110,6 +110,9 @@ For this example, I'll be trying to get the game to run @ 1384x1038, which is a 
 Within Casino Inc's DxWnd setting menu, head over to *Position* and set *W* and *H* to the custom resolution you want (W=1384, H=1038).
 Then under the *Video* tab and *Screen Resolution*, check both ***Custom resoltuion:*** and ***Initial resolution***, then set the resolution in the empty boxes (1384x1038)
 Click OK, then open Casino Inc. Go to the options and make sure you can set the resolution to the custom values you put in.
+
+Preview of gaming running at 1384x1038 on my 1920x1080 desktop:
+![Casino inc running at 1384x1038 windowed on my 1080p desktop](/Images/desktop%20screenshot2.png)
 
 ### "Can I get the Window to display in a different resolution, even if the game doesn't support it?"
 Yes, however this will cause scaling issues. DxWnd uses Nearest Neighbor for scaling, meaning that a full pixel will eaither be duplicated or not depending on the screen resolution set. This scaling method looks bad if the scale amount isn't a full number (x2, x3, etc.), making the picture look like a combination of blurry and pixilated. I haven't been successful in getting DxWnd to use a different scaling method, even if the DirectX settings seems like you should be able to do that. If you don't mind though, you can get the game window to any resoltuion.
