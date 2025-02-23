@@ -15,10 +15,10 @@ We'll be using a community exe file to play Casino Inc rather than the official 
 You can download the file [here](https://www.dropbox.com/s/a2spmrdl4ufjhbl/CasinoIncFixed.zip?dl=0). The download button is near the top right of the webpage, and you do **not** need an account to download the zip folder. Here is a [mirror](https://files.catbox.moe/p6ukw7.zip) encase the Dropbox link goes down.
 
 Once downloaded, open the zip, then open an explorer window to Casino Inc's game folder. If you do not know where Casino Inc is located, right click on the game in Steam, and under *Manage*, click *Browse local files*.
-[previewicon=39744124;sizeThumb,inline;steam.png][/previewicon]
+![Showcasing how to show Casino Inc's game folder through Steam](/Images/steam.png)
 
 Drag and drop *CasinoExpansionFixed.exe* from the zip file into Casino Inc's game folder. Make sure not to accidentally place it into a different folder, or drag it onto of another program to tell windows to open it with that program.
-[previewicon=39744078;sizeThumb,inline;drag and drop.png][/previewicon]
+![Image showing how to Drag CasinoExpansionFixed.exe into Casino Inc's game folder](/Images/drag%20and%20drop.png)
 
 If you plan on playing the game in full screen and want to see the game's intro cut-scene whenever the game opens, feel free to also drag and drop the *GameData* folder into the Casino Inc folder. Windows should automatically put the file in the right folder. However, if you wanna play in Windowed mode, don't add the *GameData* folder, because the game will freeze instead of stopping the cut-scene when in Windowed mode. If you have any issues with the cut-scene, you can delete it under *GameData* > *Movies*, then delete *Casino_Intro.bik*.
 
@@ -85,7 +85,7 @@ The first number is what will be put in the W column, and the second number (aft
 
 All the required settings have been set, now click OK, then within DXWnd, double click Casino Inc to open the game.
 
-[previewimg=39756316;sizeThumb,floatLeft;DxWnd1.png][/previewimg] [previewimg=39756328;sizeThumb,floatRight;DxWnd2.png][/previewimg]
+![DxWnd Main window settings highlighted](/Images/DxWnd1.png) ![DxWnd Video window settings highlighted](/Images/DxWnd2.png)
 
 For borderless, the game should open in the resolution and position you chose. For Standard Windowed, the game will hug the top left corner at a smaller resolution, but dragging the window around should fix it and set the resolution correctly. Do note that the menu runs at 640x480 no matter what, and while it should scale up to the resolution set in DxWnd, the scaling isn't pretty. Before starting a new game however, head over to the options, and make sure the *Game Resolution* slider is set to the resolution you set the game to in DxWnd.
 
