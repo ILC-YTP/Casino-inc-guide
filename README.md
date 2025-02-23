@@ -92,8 +92,8 @@ The first number is what will be put in the W column, and the second number (aft
 All the required settings have been set, now click OK, then within DXWnd, double click Casino Inc to open the game.
 
 <p>
-<img src="Images/DxWnd1.png">
-<img src="Images/DxWnd2.png">
+<img width="489" height="503" src="Images/DxWnd1.png">
+<img width="489" height="503" src="Images/DxWnd2.png">
 </p>
 
 For borderless, the game should open in the resolution and position you chose. For Standard Windowed, the game will hug the top left corner at a smaller resolution, but dragging the window around should fix it and set the resolution correctly. Do note that the menu runs at 640x480 no matter what, and while it should scale up to the resolution set in DxWnd, the scaling isn't pretty. Before starting a new game however, head over to the options, and make sure the *Game Resolution* slider is set to the resolution you set the game to in DxWnd.
