@@ -76,7 +76,7 @@ These are the game's supported resolutions out of the box, but there are ways to
 The first number is what will be put in the W column, and the second number (after the X) goes into the H column.
 
 ### Video Tab
-- In the video tab, set [i]Screen resolution[/i] to ***SD+HD***. This will add extra screen resolutions that game will let you choose, some of which were listed above.
+- In the video tab, set *Screen resolution* to ***SD+HD***. This will add extra screen resolutions that game will let you choose, some of which were listed above.
 - If you are using Window/DPI scaling (making text, icons and windows larger bigger than their native size, usually for screens higher than 1080p), the game window will also scale up to the % that is set in Windows settings (example: if set to 200%, a 1280x720 window will scale up to 2560x1440, though the game's internal resolution is still 720p.) Check ***Set DPI awareness*** if you want to disable this.
 
 ### If you want Borderless Windowed
