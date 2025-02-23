@@ -1,5 +1,6 @@
 # Casino-inc-guide
 This is a Steam Mirror of a guide for patching and running Casino Inc in windowed mode. This is hear because I keep running into Steam runtime error code 15 whenenver I try to save my progress, and it's really annoying. Till then, I'm posting my guide here.
+![Casino Inc dude pondering and annoyed.](/Images/thumbnail.png)
 
 # Quick Intro and Disclaimer
 Casino Inc is unfortunately one of those older games that not only doesn't support windowed mode, but has bad copy protection that triggers easily even with a legit copy, and it wasn't patched out for the Steam release. This Guide will go over patching the game to remove the copy protection, fix bugs such as issues that occur at high frame rates, as well as how you can play the game in windowed mode.
