@@ -101,13 +101,13 @@ For borderless, the game should open in the resolution and position you chose. F
 Here is what the game looks like running at 1280x960 on a 1920x1080 desktop:
 ![Casino Inc running with my desktop in the background](/Images/desktop%20screenshot.png)
 
-NOTE: There is a minor bug where Casino inc might initially appear in front of everything even after tabbing out. I find that Clicking out of the game, clicking back in, then alt tabbing to something else solves this issue. You might also wanna disable Inside and City Mouse Scrolling in the game settings if you find it interfears when playing the game.
+NOTE: There is a minor bug where Casino inc might initially appear in front of everything even after tabbing out. I find that Clicking out of the game, clicking back in, then alt tabbing to something else solves this issue. You might also wanna disable Inside and City Mouse Scrolling in the game settings if you find it interferes when playing the game.
 
 If everything is the way you'd like it, great! You're finished and can play Casino Inc just fine now. Make sure to open the game through DxWnd instead of Steam though.
 If not though, there's more we can do. You can change the game's DxWnd settings anytime by right clicking on the game in DxWnd, and clicking *modify...*
 
 ### For setting position of borderless windowed
-Given that the window is borderless, you're stuck with where the game is located and can't move it. You'll have to change the X and Y coordinates in the *Main* > *Position* section, and also make sure *X,Y Coordinates* setting is set. By default, X and Y are set to 50, meaning they're 50 pixels right and down from the top corner of the screen. If you want the game to be at the top left corner, set them to 0,0. If you're not sure what coordinats to put the game, it's best to take a screenshot of your whole desktop and use a paint/image editor program that shows the coordinates of where your mouse is. That exact position of where your mouse at is the coordinate where the top left game window corner will stick to.
+Given that the window is borderless, you're stuck with where the game is located and can't move it. You'll have to change the X and Y coordinates in the *Main* > *Position* section, and also make sure *X,Y Coordinates* setting is set. By default, X and Y are set to 50, meaning they're 50 pixels right and down from the top corner of the screen. If you want the game to be at the top left corner, set them to 0,0. If you're not sure what coordinates to put the game, it's best to take a screenshot of your whole desktop and use a paint/image editor program that shows the coordinates of where your mouse is. That exact position of where your mouse at is the coordinate where the top left game window corner will stick to.
 
 If You want a custom resolution, read the next section.
 
