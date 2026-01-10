@@ -11,6 +11,8 @@ This guide is based of a computer using *Windows 10*, Windows 11 and Linux users
 
 The Patch that I'll be sharing has been reported by some users that it can lock machines up and require a force reboot. I don't know to what extent the machines lock up, maybe the reporters didn't have task manager set to *Always stay on top*? I'm also sure if the game locks up you'll have an easier time closing the game if it's in windowed mode. Regardless, I recommend closing and/or saving anything you're working on that's important before playing Casino Inc, you don't wanna lose progress on the projects you're working on.
 
+There is an additional issue for Linux issues related to the game's animated cursor https://github.com/ILC-YTP/Casino-inc-guide/issues/1 .  You can read about it here: [Steam Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3643539229) 
+
 # Patching Casino Inc
 We'll be using a community exe file to play Casino Inc rather than the official one(s)
 
